@@ -1,7 +1,5 @@
-export function greet(name = "stranger") {
-  if (name === "<YOUR-NAME>") {
-    return "Hello coach!";
-  }
-
-  return `Hello ${name}!`;
+export function greet(name) {
+  return name === "Paul"
+    ? "Guten Morgen Herr Lehrer"
+    : "Hallo liebe:r Student:in";
 }
