@@ -1,18 +1,8 @@
-## JS Unit Testing: Demo Start
+# Unit test demo ffm-web-23-1
 
-Clone this demo to your computer:
+Demonstrates Unite testing with a simple `greet()` function.
 
-```sh
-npx ghcd@latest neuefische/web-exercises/tree/main/sessions/js-unit-testing/demo-start -i
-```
-
-## Development
-
-### CodeSandbox
-
-This project is JavaScript only so there is nothing to view in the "Browser" tab. Please select the "Tests" tab to check your progress.
-
-### Local development
+## Local development
 
 To run project commands locally, you need to install the dependencies using `npm i` first.
 
